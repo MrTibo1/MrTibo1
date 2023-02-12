@@ -1,5 +1,4 @@
-![someone is at your front door.](https://user-images.githubusercontent.com/28931191/218334583-57f3a989-3ddf-4b88-a4e2-285c326a5587.jpg)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=MrTibo1&theme=windows-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--
 **MrTibo1/MrTibo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
